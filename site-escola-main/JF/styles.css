@@ -1,7 +1,18 @@
 body{
     color: black;
-    background-image: linear-gradient( 135deg, yellow, white, white);
+    background-image: linear-gradient( 135deg, yellow, white, white, yellow);
     font-size: 30px;
     font-family: cursive;
+    text-align: center;
+}
 
+header{
+    background-color: red;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+footer{
+    text-align: center;
 }
